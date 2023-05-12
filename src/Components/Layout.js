@@ -11,6 +11,7 @@ export default function Layout({ children }) {
                 <Link href="/about"> About</Link>
                 <Link href="/projects">Projects</Link>
                 <Link href="/contact">Contact</Link>
+                <Link href="/admin">Admin</Link>
             </Header>
             <Container fixed>
                 <main>{children}</main>

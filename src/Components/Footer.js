@@ -1,4 +1,4 @@
 export default function Footer() {
-    return <footer>Made by John Doe</footer>;
+    return <footer>Made by Librado</footer>;
   }
   
